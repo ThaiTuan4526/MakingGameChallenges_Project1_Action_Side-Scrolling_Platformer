@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ed3a499b25960c50f1586be3649a9eb, type: 3}
+  m_Name: TMP Settings
+  m_EditorClassIdentifier:
+  m_enableWordWrapping: 1
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  m_enableTintAllSprites: 0
+  m_enableParseEscapeCharacters: 0
+  m_missingGlyphCharacter: 0
+  m_warningsDisabled: 1
+  m_defaultFontAsset: {fileID: 11400000, guid: c44a707ec7c15e74d9e6559e4ca28b0c, type: 2}
+  m_defaultFontAssetPath: Fonts & Materials/
+  m_defaultFontSize: 36
+  m_defaultTextContainerWidth: 0
+  m_defaultTextContainerHeight: 0
+  m_fallbackFontAssets: []
+  m_matchMaterialPreset: 1
+  m_defaultSpriteAsset: {fileID: 11400000, guid: 100b83b9940d15a419435cb3af6b72ae, type: 2}
+  m_defaultSpriteAssetPath: Sprites/
+  m_defaultStyleSheet: {fileID: 11400000, guid: 7658f1b9b66945e4e821d1080b0a23ef, type: 2}
+  m_leadingCharacters: {fileID: 4900000, guid: 24fb7b14f4f52b54b9bd71950d3e4e51, type: 3}
+  m_followingCharacters: {fileID: 4900000, guid: cccffbdb648110f45949bb547f02f2fa, type: 3}

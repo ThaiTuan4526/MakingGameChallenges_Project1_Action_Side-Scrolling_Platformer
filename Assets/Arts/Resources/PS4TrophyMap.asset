@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc451fa500adaabab795b81c6ce19a3, type: 3}
+  m_Name: PS4TrophyMap
+  m_EditorClassIdentifier:
+  pairs:
+  - internalId: FK_DEFEAT
+    serviceId: 1
+  - internalId: HORNET_1
+    serviceId: 2
+  - internalId: HORNET_2
+    serviceId: 3
+  - internalId: WATCHER
+    serviceId: 4
+  - internalId: BEAST
+    serviceId: 5
+  - internalId: TEACHER
+    serviceId: 6
+  - internalId: ENDING_A
+    serviceId: 7
+  - internalId: ENDING_B
+    serviceId: 7
+  - internalId: ENDING_C
+    serviceId: 7
+  - internalId: CHARMED
+    serviceId: 8
+  - internalId: ENCHANTED
+    serviceId: 9
+  - internalId: BLESSED
+    serviceId: 10
+  - internalId: PROTECTED
+    serviceId: 11
+  - internalId: MASKED
+    serviceId: 12
+  - internalId: SOULFUL
+    serviceId: 13
+  - internalId: WORLDSOUL
+    serviceId: 14
+  - internalId: STAG_STATION_HALF
+    serviceId: 15
+  - internalId: STAG_STATION_ALL
+    serviceId: 16
+  - internalId: GRUBFRIEND
+    serviceId: 17
+  - internalId: METAMORPHOSIS
+    serviceId: 18
+  - internalId: MAP
+    serviceId: 19
+  - internalId: ATTUNEMENT
+    serviceId: 20
+  - internalId: AWAKENING
+    serviceId: 21
+  - internalId: ASCENSION
+    serviceId: 22
+  - internalId: HUNTER_1
+    serviceId: 23
+  - internalId: HUNTER_2
+    serviceId: 24
+  - internalId: MOURNER
+    serviceId: 25
+  - internalId: COLOSSEUM_1
+    serviceId: 26
+  - internalId: COLOSSEUM_2
+    serviceId: 27
+  - internalId: COLOSSEUM_3
+    serviceId: 28
+  - internalId: GRIMM
+    serviceId: 29
+  - internalId: NIGHTMARE_GRIMM
+    serviceId: 30
+  - internalId: BANISHMENT
+    serviceId: 30
+  - internalId: PANTHEON4
+    serviceId: 31
+  - internalId: ENDINGD
+    serviceId: 32
+  - internalId: COMPLETIONGG
+    serviceId: 33
+  - internalId: MR_MUSHROOM
+    serviceId: 34

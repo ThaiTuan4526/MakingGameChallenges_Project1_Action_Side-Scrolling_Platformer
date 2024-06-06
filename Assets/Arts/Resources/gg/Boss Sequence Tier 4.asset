@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b286d24771eb12e6b7bbcc2e68157325, type: 3}
+  m_Name: Boss Sequence Tier 4
+  m_EditorClassIdentifier:
+  bossScenes:
+  - {fileID: 11400000, guid: 8d9482acd0cdb924fa641ac040cb7fdd, type: 2}
+  - {fileID: 11400000, guid: a39adaa5dce23a3439602f6e1a28581d, type: 2}
+  - {fileID: 11400000, guid: ff6d75b91c8cda14d8c706023ef20fcf, type: 2}
+  - {fileID: 11400000, guid: 97ee93c2dd0407840a7e9bd33d0062ce, type: 2}
+  - {fileID: 11400000, guid: 1784340cc37110746b3879490ea9fd81, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: 70469c4551f336046bab9d18dc92e3e0, type: 2}
+  - {fileID: 11400000, guid: dbf40e32e4c86b54fa94b5315a5e9309, type: 2}
+  - {fileID: 11400000, guid: 1733cbe3e95aef944abec417491bbea7, type: 2}
+  - {fileID: 11400000, guid: 740270e4b3b839843bd82192a9f19d73, type: 2}
+  - {fileID: 11400000, guid: e795dbc515afb67458806d66517f03bb, type: 2}
+  - {fileID: 11400000, guid: b5bff97759f109344aa949460de89212, type: 2}
+  useSceneUnlocks: 1
+  tests: []
+  achievementKey: PANTHEON4
+  customEndScene: GG_Door_5_Finale
+  customEndScenePlayerData: seenDoor4Finale
+  nailDamage: 13
+  lowerNailDamagePercentage: 0.8
+  maxHealth: 4

@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fungd_floor_03_0000_a
+  m_Rect:
+    serializedVersion: 2
+    x: 1403
+    y: 1529
+    width: 198
+    height: 38
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 64
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    fbf172de7bf4ba44c91e051b48f7adce: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 3
+    texture: {fileID: 2800000, guid: 7832e8a4ddd6e4f428fd6644f2f36a9b, type: 3}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 75
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 33
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 20001f001e001d001e001f001a001e001d001c001a001d0019001a001c001b001a0019001800170015001600150017001400150016001300150014000f0013001400120013000f00100012000f00110010000f000e000d000c000b000c000d0008000c000b000a0008000b00070008000a00090008000700060005000300040003000500000003000400010003000000020001000000
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 33
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 1
+        offset: 0
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 664
+      _typelessdata: 000088bf0000983e0000000000006cbf000098be0000000000006cbf0000703e000000000000b4bf000098be000000000000bcbf0000983e000000000000c6bf0000503e000000000000c6bf000030be000000000000683f000040bd000000000000643f000098be000000000000683f000080be000000000000543f0000003d000000000000203f0000003d000000000000183f000098be000000000000083f0000803c000000000000083f000088be000000000000883e0000983e000000000000a03e000010be000000000000a03e0000603e000000000000403e000080be000000000000003d000088be00000000000088be0000983e000000000000f8be000088be00000000000008bf0000403e0000000000000cbf0000203e0000000000000cbf000010be000000000000c63f0000703e000000000000c03f000060be000000000000c63f000040be000000000000be3f0000983e000000000000983f0000983e000000000000923f000060be0000000000008a3f0000803e0000000000008a3f0000c0bd000000000000000018182e0018182e0018182e0018182e0018182e0018182e0040390cc070020000230000000000000058380cc07002000038b20cc07002000018182e0018182e0058380cc070020000c300000000000000abababababababababababab21000000210100000000000000000000ffffffff0000a63f0000943e000000000000b23f000084be000000000000b23f0000683e0000000000005cbf0000943e000000000000c2bf0000b03d000000000000c2bf000084be000000000000000000000000010101ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff07070eff1f273cff363b4bff000000000000000000000000000000003d404fff3d404fff
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 1403
+      y: 1529
+      width: 198
+      height: 38
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 1403, y: 1529}
+    settingsRaw: 65
+    uvTransform: {x: 64, y: 1502, z: 64, w: 1548}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 3
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 0.75, y: 0.03125}
+    - {x: 0.625, y: 0.03125}
+    - {x: 0.546875, y: -0.03125}
+    - {x: 0.546875, y: -0.25}
+    - {x: 0.625, y: -0.296875}
+    - {x: 0.84375, y: -0.296875}
+    - {x: 0.890625, y: -0.234375}
+    - {x: 0.890625, y: -0.078125}
+  - - {x: -1.546875, y: 0.296875}
+    - {x: -1.546875, y: -0.109375}
+    - {x: -1.40625, y: -0.296875}
+    - {x: -1.0625, y: -0.296875}
+    - {x: -0.9375, y: -0.203125}
+    - {x: -0.9375, y: 0.09375}
+    - {x: -1.015625, y: 0.296875}
+  - - {x: -0.453125, y: 0.09375}
+    - {x: -0.53125, y: 0.015625}
+    - {x: -0.53125, y: -0.15625}
+    - {x: -0.453125, y: -0.25}
+    - {x: -0.265625, y: -0.25}
+    - {x: -0.203125, y: -0.203125}
+    - {x: -0.203125, y: -0.015625}
+    - {x: -0.234375, y: 0.09375}
+  - - {x: -0.21875, y: 0.296875}
+    - {x: -0.21875, y: -0.078125}
+    - {x: -0.15625, y: -0.203125}
+    - {x: 0.265625, y: -0.203125}
+    - {x: 0.296875, y: -0.1875}
+    - {x: 0.296875, y: 0.296875}
+  - - {x: 1.078125, y: 0.296875}
+    - {x: 1.078125, y: -0.109375}
+    - {x: 1.21875, y: -0.1875}
+    - {x: 1.515625, y: -0.1875}
+    - {x: 1.546875, y: -0.046875}
+    - {x: 1.546875, y: 0.234375}
+    - {x: 1.484375, y: 0.296875}
+  m_Bones: []
+  m_SpriteID:

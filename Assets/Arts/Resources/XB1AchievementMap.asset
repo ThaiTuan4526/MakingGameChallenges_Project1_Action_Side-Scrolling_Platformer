@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dc451fa500adaabab795b81c6ce19a3, type: 3}
+  m_Name: XB1AchievementMap
+  m_EditorClassIdentifier:
+  pairs:
+  - internalId: CHARMED
+    serviceId: 1
+  - internalId: ENCHANTED
+    serviceId: 2
+  - internalId: BLESSED
+    serviceId: 3
+  - internalId: PROTECTED
+    serviceId: 4
+  - internalId: MASKED
+    serviceId: 5
+  - internalId: SOULFUL
+    serviceId: 6
+  - internalId: WORLDSOUL
+    serviceId: 7
+  - internalId: FK_DEFEAT
+    serviceId: 8
+  - internalId: DREAM_FK
+    serviceId: 9
+  - internalId: HORNET_1
+    serviceId: 10
+  - internalId: HORNET_2
+    serviceId: 11
+  - internalId: SOUL_MASTER_DEFEAT
+    serviceId: 12
+  - internalId: DREAM_SOUL_MASTER_DEFEAT
+    serviceId: 13
+  - internalId: BROKEN_VESSEL
+    serviceId: 14
+  - internalId: DREAM_BROKEN_VESSEL
+    serviceId: 15
+  - internalId: DUNG_DEFENDER
+    serviceId: 16
+  - internalId: MANTIS_LORDS
+    serviceId: 17
+  - internalId: COLLECTOR
+    serviceId: 18
+  - internalId: ZOTE
+    serviceId: 19
+  - internalId: ATTUNEMENT
+    serviceId: 20
+  - internalId: AWAKENING
+    serviceId: 21
+  - internalId: ASCENSION
+    serviceId: 22
+  - internalId: GRUBFRIEND
+    serviceId: 23
+  - internalId: METAMORPHOSIS
+    serviceId: 24
+  - internalId: NEGLECT
+    serviceId: 25
+  - internalId: NAILSMITH_KILL
+    serviceId: 26
+  - internalId: NAILSMITH_SPARE
+    serviceId: 27
+  - internalId: QUIRREL_EPILOGUE
+    serviceId: 28
+  - internalId: MOURNER
+    serviceId: 29
+  - internalId: TRAITOR_LORD
+    serviceId: 30
+  - internalId: STAG_STATION_HALF
+    serviceId: 31
+  - internalId: STAG_STATION_ALL
+    serviceId: 32
+  - internalId: TEACHER
+    serviceId: 33
+  - internalId: WATCHER
+    serviceId: 34
+  - internalId: BEAST
+    serviceId: 35
+  - internalId: MAP
+    serviceId: 36
+  - internalId: COLOSSEUM_1
+    serviceId: 37
+  - internalId: COLOSSEUM_2
+    serviceId: 38
+  - internalId: COLOSSEUM_3
+    serviceId: 39
+  - internalId: ENDING_A
+    serviceId: 40
+  - internalId: ENDING_B
+    serviceId: 41
+  - internalId: ENDING_C
+    serviceId: 42
+  - internalId: VOID
+    serviceId: 43
+  - internalId: SPEEDRUN_1
+    serviceId: 44
+  - internalId: SPEEDRUN_2
+    serviceId: 45
+  - internalId: COMPLETION
+    serviceId: 46
+  - internalId: SPEED_COMPLETION
+    serviceId: 47
+  - internalId: STEELSOUL
+    serviceId: 48
+  - internalId: STEELSOUL_COMPLETION
+    serviceId: 49
+  - internalId: HUNTER_1
+    serviceId: 50
+  - internalId: HUNTER_2
+    serviceId: 51
+  - internalId: MR_MUSHROOM
+    serviceId: 52
+  - internalId: WHITE_DEFENDER
+    serviceId: 53
+  - internalId: GREY_PRINCE
+    serviceId: 54
+  - internalId: GRIMM
+    serviceId: 55
+  - internalId: NIGHTMARE_GRIMM
+    serviceId: 56
+  - internalId: BANISHMENT
+    serviceId: 57
+  - internalId: PANTHEON1
+    serviceId: 58
+  - internalId: PANTHEON2
+    serviceId: 59
+  - internalId: PANTHEON3
+    serviceId: 60
+  - internalId: PANTHEON4
+    serviceId: 61
+  - internalId: ENDINGD
+    serviceId: 62
+  - internalId: COMPLETIONGG
+    serviceId: 63

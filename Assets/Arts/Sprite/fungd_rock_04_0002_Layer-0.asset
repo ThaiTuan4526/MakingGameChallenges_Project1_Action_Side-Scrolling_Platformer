@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fungd_rock_04_0002_Layer-0
+  m_Rect:
+    serializedVersion: 2
+    x: 1479
+    y: 651
+    width: 202
+    height: 93
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 64
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RenderDataKey:
+    1fadce92e24b8d6419d65c21cc1d14fa: 21300000
+  m_AtlasTags: []
+  m_SpriteAtlas: {fileID: 0}
+  m_RD:
+    serializedVersion: 3
+    texture: {fileID: 2800000, guid: 7832e8a4ddd6e4f428fd6644f2f36a9b, type: 3}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes:
+    - serializedVersion: 2
+      firstByte: 0
+      indexCount: 159
+      topology: 0
+      baseVertex: 0
+      firstVertex: 0
+      vertexCount: 31
+      localAABB:
+        m_Center: {x: 0, y: 0, z: 0}
+        m_Extent: {x: 0, y: 0, z: 0}
+    m_IndexBuffer: 06000400170003001700040001001700030016001700010002001600010015001600020011000f001d000e001d000f001c001d000e000d001c000e001b001c000d000c001b000d00100011001e000a001e0011001d000a0011001c000a001d001b000a001c000c000a001b000b0009001a0008001a00090019001a0008000700190008000500190007001800190005000b001a000a0013000a001a00190013001a0018001300190005001300180006001300050017001300060016001300170015001300160002001300150000001300020012001300000014001300120000000e0010000f0010000e00110010000f000d000e0000000c000d00000008000c0000000a000c00080009000a0008000b000a000900070008000000050007000000030005000000040005000300060005000400010003000000020001000000
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 31
+      m_Channels:
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 3
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 1
+        offset: 0
+        format: 0
+        dimension: 2
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      - stream: 0
+        offset: 0
+        format: 0
+        dimension: 0
+      m_DataSize: 632
+      _typelessdata: 0000b83f00003a3f0000000000008a3f00000a3f0000000000008e3f0000063f000000000000823f00000a3f000000000000803f0000023f000000000000503e0000d43e000000000000803f0000e43e000000000000203e0000ec3e000000000000103e0000ec3e000000000000e03d0000dc3e000000000000a4bf00003abf000000000000e03d0000cc3e000000000000b8bf0000843e000000000000bcbf00008c3e000000000000c2bf00008c3e000000000000c6bf0000783e000000000000cabf00003a3f000000000000c6bf0000383e000000000000ca3f0000fc3e000000000000c43f00003abf000000000000ca3f00001ebf0000000000008e3f0000ec3e0000000000008c3f0000dc3e000000000000863f0000dc3e000000000000503e0000cc3e000000000000303e0000bc3e000000000000103e0000bc3e000000000000b8bf0000583e000000000000bebf0000183e000000000000c2bf0000183e000000000000cabf000026bf000000000000000000000000000000001a1d21ff191c20ff0b0d0fff0a0b0cff08090aff040505ff111315ff1f2224ff26282bff26292cff26282bff212326ff191c1fff171a1dff171a1dff171a1dff171a1dff171a1dff171a1dff181b1fff1a1d21ff1a1e22ff1a1e22ff1a1e22ff191c20ff171b1eff16191dff131619ff060708ff040505ff202222ff2f3234ff303436ff3d4041ff424446ff434547ff424446ff3d3f41ff2d2f30ff121213ff010101ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff000000ff030304ff0d0d10ff1a1e22ff262a2dff2a2e31ff282c2fff292d30ff24282cff14161aff050506ff000000ff000000ff
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 1479
+      y: 651
+      width: 202
+      height: 93
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 1479, y: 651}
+    settingsRaw: 65
+    uvTransform: {x: 64, y: 1580, z: 64, w: 697.5}
+    downscaleMultiplier: 1
+  m_AtlasRD:
+    serializedVersion: 3
+    texture: {fileID: 0}
+    alphaTexture: {fileID: 0}
+    secondaryTextures: []
+    m_SubMeshes: []
+    m_IndexBuffer:
+    m_VertexData:
+      serializedVersion: 3
+      m_VertexCount: 0
+      m_Channels: []
+      m_DataSize: 0
+      _typelessdata:
+    m_Bindpose: []
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 0, y: 0}
+    settingsRaw: 0
+    uvTransform: {x: 0, y: 0, z: 0, w: 0}
+    downscaleMultiplier: 0
+  m_PhysicsShape:
+  - - {x: 1.578125, y: -0.0703125}
+    - {x: 1.5, y: 0.0390625}
+    - {x: 1.375, y: 0.0390625}
+    - {x: 1.21875, y: 0.1953125}
+    - {x: 1.015625, y: 0.2890625}
+    - {x: 0.828125, y: 0.3515625}
+    - {x: 0.609375, y: 0.2734375}
+    - {x: 0.421875, y: 0.2734375}
+    - {x: 0.359375, y: 0.2109375}
+    - {x: 0.296875, y: 0.2265625}
+    - {x: 0.0625, y: 0.3515625}
+    - {x: -0.234375, y: 0.6171875}
+    - {x: -0.4375, y: 0.7265625}
+    - {x: -0.9375, y: 0.7265625}
+    - {x: -1.25, y: 0.4765625}
+    - {x: -1.375, y: 0.1953125}
+    - {x: -1.53125, y: 0.1328125}
+    - {x: -1.578125, y: -0.0390625}
+    - {x: -1.578125, y: -0.4453125}
+    - {x: -1.453125, y: -0.6171875}
+    - {x: -1.265625, y: -0.6796875}
+    - {x: -0.734375, y: -0.6484375}
+    - {x: -0.578125, y: -0.6953125}
+    - {x: -0.4375, y: -0.7265625}
+    - {x: 0.96875, y: -0.7265625}
+    - {x: 1.421875, y: -0.6171875}
+    - {x: 1.578125, y: -0.3828125}
+  m_Bones: []
+  m_SpriteID:

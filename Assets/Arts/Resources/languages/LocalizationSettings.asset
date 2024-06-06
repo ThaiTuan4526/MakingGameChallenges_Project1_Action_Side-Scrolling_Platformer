@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd735a4f90c59b6265207f72227e827a, type: 3}
+  m_Name: LocalizationSettings
+  m_EditorClassIdentifier:
+  sheetTitles:
+  - General
+  - Hornet
+  - Prices
+  - Elderbug
+  - Zote
+  - Map Zones
+  - Sly
+  - Shaman
+  - Cornifer
+  - Hunter
+  - Relic Dealer
+  - Minor NPC
+  - Ghosts
+  - Iselda
+  - Dreamers
+  - Charm Slug
+  - Dream Witch
+  - Nailsmith
+  - Nailmasters
+  - Quirrel
+  - Stag
+  - Achievements
+  - Jiji
+  - MainMenu
+  - Banker
+  - StagMenu
+  - Enemy Dreams
+  - Prompts
+  - Titles
+  - UI
+  - Journal
+  - CP2
+  - Lore Tablets
+  - CP3
+  - Backer Messages
+  - Credits List
+  - exception list
+  - Google Sheets
+  - Report Abuse
+  useSystemLanguagePerDefault: 1
+  defaultLangCode: EN
+  gDocsURL: https://docs.google.com/spreadsheets/d/e/2PACX-1vRGFgIOJSu-cz0BqJCrkbdy7Np8UkF7jvNfHGDkXbKxvG-ynbMpRLca0H6MD2zQ08YxH_CCwOyAixrr/pubhtml

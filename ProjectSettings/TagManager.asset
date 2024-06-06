@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TileMap
+  - GameManager
+  - BlackOverlay
+  - HeroBox
+  - Nail Attack
+  - RespawnPoint
+  - HeroWalkable
+  - SceneManager
+  - HeroLight
+  - Battle Gate
+  - Battle Scene
+  - CameraParent
+  - Terrain
+  - Canvas
+  - UIManager
+  - Hero Spell
+  - Enemy Message
+  - Orb Target
+  - Vignette
+  - RespawnTrigger
+  - Boss Corpse
+  - Heart Piece
+  - TransitionGate
+  - UI Soul Orb
+  - Shade Marker
+  - Hud Camera
+  - Cinematic
+  - Stag Grate
+  - Platform
+  - Boss
+  - GeoCounter
+  - CameraTarget
+  - StagMapMarker
+  - HeroFootsteps
+  - SaveIcon
+  - HeroLightMain
+  - BetaEnd
+  - ShopWindow
+  - JounalUpMSG
+  - Roar
+  - CharmsPane
+  - InventoryTop
+  - CharmGetMSG
+  - Acid
+  - SoulVessels
+  - Teleplane
+  - WaterSurface
+  - RelicGetMSG
+  - FireballSafe
+  - BabyCentipede
+  - KnightHatchling
+  - DreamAttack
+  - InfectedFlag
+  - GhostWarriorNPC
+  - ExtraTag
+  - DreamPlant
+  - DreamOrb
+  - Geo
+  - SharpShadow
+  - BossAttack
+  - NailBeam
+  - GrubBottle
+  - ColossuemManager
+  - WallBreaker
+  - IgnoreHatchling
+  - HatchlingMagnet
+  - SpellVulnerable
+  - Hopper
+  - SetExtrapolate
+  - OrbitShield
+  - GrimmChild
+  - WindyGrass
+  - Weaverling
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Terrain
+  - Player
+  - TransitionGates
+  - Enemies
+  - Projectiles
+  - Hero Detector
+  - Terrain Detector
+  - Enemy Detector
+  - Tinker
+  - Attack
+  - Particle
+  - Interactive Object
+  - Hero Box
+  - Grass
+  - Enemy Attack
+  - Damage All
+  - Bouncer
+  - Soft Terrain
+  - Corpse
+  - uGUI
+  - Hero Only
+  - ActiveRegion
+  - Map Pin
+  - Orbit Shield
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Far BG 2
+    uniqueID: 1347960887
+    locked: 0
+  - name: Far BG 1
+    uniqueID: 2274520095
+    locked: 0
+  - name: Mid BG
+    uniqueID: 2359361305
+    locked: 0
+  - name: Immediate BG
+    uniqueID: 755281847
+    locked: 0
+  - name: Actors
+    uniqueID: 3663846605
+    locked: 0
+  - name: Player
+    uniqueID: 1976066457
+    locked: 0
+  - name: Tiles
+    uniqueID: 15749095
+    locked: 0
+  - name: MID Dressing
+    uniqueID: 1941338927
+    locked: 0
+  - name: Immediate FG
+    uniqueID: 1009613981
+    locked: 0
+  - name: Far FG
+    uniqueID: 1905003687
+    locked: 0
+  - name: Vignette
+    uniqueID: 1439576725
+    locked: 0
+  - name: Over
+    uniqueID: 501232891
+    locked: 0
+  - name: HUD
+    uniqueID: 495749769
+    locked: 0

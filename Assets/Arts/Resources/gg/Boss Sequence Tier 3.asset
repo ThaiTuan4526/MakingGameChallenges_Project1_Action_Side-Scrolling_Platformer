@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b286d24771eb12e6b7bbcc2e68157325, type: 3}
+  m_Name: Boss Sequence Tier 3
+  m_EditorClassIdentifier:
+  bossScenes:
+  - {fileID: 11400000, guid: af4770cff3b391c4597dbaccf11eeeac, type: 2}
+  - {fileID: 11400000, guid: d1ef7e0d0c16e7547aec87797d447765, type: 2}
+  - {fileID: 11400000, guid: 3365a230dd3ecbb4e88e65431d88fbb0, type: 2}
+  - {fileID: 11400000, guid: ef47ab0f3744ca64c9fc087e2c63756f, type: 2}
+  - {fileID: 11400000, guid: d2c7498867e2b724e8270b0d093e6b7d, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: bdad9eb776d3f3648bb6f94d85a72638, type: 2}
+  - {fileID: 11400000, guid: 2ee3d280148ab384b89d199f2c1f13ca, type: 2}
+  - {fileID: 11400000, guid: c054bdb8f8ed03149855216f5e7483a8, type: 2}
+  - {fileID: 11400000, guid: db5e5bd026c65a4429bf17629cee4d76, type: 2}
+  - {fileID: 11400000, guid: 0c4274a7ce0b5414db00480ab4655846, type: 2}
+  - {fileID: 11400000, guid: aa16829fceade3c469e95d03bf921724, type: 2}
+  useSceneUnlocks: 1
+  tests: []
+  achievementKey: PANTHEON3
+  customEndScene:
+  customEndScenePlayerData:
+  nailDamage: 13
+  lowerNailDamagePercentage: 0.8
+  maxHealth: 4

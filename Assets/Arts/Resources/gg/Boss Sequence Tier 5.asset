@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b286d24771eb12e6b7bbcc2e68157325, type: 3}
+  m_Name: Boss Sequence Tier 5
+  m_EditorClassIdentifier:
+  bossScenes:
+  - {fileID: 11400000, guid: e0a109b4f14d82a4e9632a163f6def2b, type: 2}
+  - {fileID: 11400000, guid: d8bf259fdd322ae44bbeee4a6b079858, type: 2}
+  - {fileID: 11400000, guid: db03fa0dee8a4b042965c53783dfdd12, type: 2}
+  - {fileID: 11400000, guid: 2519e8bc53547e34c964b95c811f6461, type: 2}
+  - {fileID: 11400000, guid: d684c7de4e616f04f840a5d7ce5ed704, type: 2}
+  - {fileID: 11400000, guid: 0c4274a7ce0b5414db00480ab4655846, type: 2}
+  - {fileID: 11400000, guid: 503bdcc3360919343a6580b90e64ab64, type: 2}
+  - {fileID: 11400000, guid: d57ae3c79b045a34fb4092d0f540a6cc, type: 2}
+  - {fileID: 11400000, guid: a8969402a968ee542a54cafd2d896c54, type: 2}
+  - {fileID: 11400000, guid: d663a9c85ccc60741bdd81ff12454ce0, type: 2}
+  - {fileID: 11400000, guid: ab1f5a942e7728041a6e5cd1259cac8f, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: ced93218aa188bb4587e3146a7a8e6d4, type: 2}
+  - {fileID: 11400000, guid: 4d21362f40b3d37499b7b1407cedc2d5, type: 2}
+  - {fileID: 11400000, guid: 6567862208c033d4db3ab3f23b6128b9, type: 2}
+  - {fileID: 11400000, guid: 29125d1f5a5b2854abc036faea09baf7, type: 2}
+  - {fileID: 11400000, guid: 3629f97faa8f1bb4aaa3f2fd210a1b48, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: 2e55c5501b1fe744e959d7b7fae6c9ef, type: 2}
+  - {fileID: 11400000, guid: 97f5e6301cfdd2044a2afe0077d40560, type: 2}
+  - {fileID: 11400000, guid: 9f19f2485c4927b4999e6c5a7ab02a0f, type: 2}
+  - {fileID: 11400000, guid: bdad9eb776d3f3648bb6f94d85a72638, type: 2}
+  - {fileID: 11400000, guid: d2662f19756d0bc438739887993846b3, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: af4770cff3b391c4597dbaccf11eeeac, type: 2}
+  - {fileID: 11400000, guid: d1ef7e0d0c16e7547aec87797d447765, type: 2}
+  - {fileID: 11400000, guid: ed564798c9c681245b8c923ce15a2375, type: 2}
+  - {fileID: 11400000, guid: ef47ab0f3744ca64c9fc087e2c63756f, type: 2}
+  - {fileID: 11400000, guid: d2c7498867e2b724e8270b0d093e6b7d, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: 5df2a1a8d3dd57f4d95d6481e8a672f0, type: 2}
+  - {fileID: 11400000, guid: 1733cbe3e95aef944abec417491bbea7, type: 2}
+  - {fileID: 11400000, guid: 82871e477b88ca14e9aec346ca1f52ba, type: 2}
+  - {fileID: 11400000, guid: e2c954af2bf17044bb237ce9c13fb888, type: 2}
+  - {fileID: 11400000, guid: aa16829fceade3c469e95d03bf921724, type: 2}
+  - {fileID: 11400000, guid: db5e5bd026c65a4429bf17629cee4d76, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: 8d9482acd0cdb924fa641ac040cb7fdd, type: 2}
+  - {fileID: 11400000, guid: a39adaa5dce23a3439602f6e1a28581d, type: 2}
+  - {fileID: 11400000, guid: 1c1e2a40b4a324341a66533553fb69b2, type: 2}
+  - {fileID: 11400000, guid: 97ee93c2dd0407840a7e9bd33d0062ce, type: 2}
+  - {fileID: 11400000, guid: 1784340cc37110746b3879490ea9fd81, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: abbc3fb31fbf23240aa0e9db157fde2c, type: 2}
+  - {fileID: 11400000, guid: 740270e4b3b839843bd82192a9f19d73, type: 2}
+  - {fileID: 11400000, guid: 120d846a45b1eea40a1299e3cb8e7a95, type: 2}
+  - {fileID: 11400000, guid: 2ee3d280148ab384b89d199f2c1f13ca, type: 2}
+  - {fileID: 11400000, guid: 70469c4551f336046bab9d18dc92e3e0, type: 2}
+  - {fileID: 11400000, guid: ea301d781b14f5241b946bc2b6c5d0a3, type: 2}
+  - {fileID: 11400000, guid: 85903f17a74414844ab197c827d1dbda, type: 2}
+  - {fileID: 11400000, guid: eac5671689ea65c4fa45b49e12217829, type: 2}
+  - {fileID: 11400000, guid: b5bff97759f109344aa949460de89212, type: 2}
+  - {fileID: 11400000, guid: cd6acd66c54269347886b41f1e17b265, type: 2}
+  useSceneUnlocks: 0
+  tests:
+  - persistentBool:
+      id:
+      sceneName:
+      activated: 0
+      semiPersistent: 0
+    boolTests:
+    - playerDataBool: gotShadeCharm
+      value: 1
+    intTests: []
+    sharedData: []
+  achievementKey: ENDINGD
+  customEndScene:
+  customEndScenePlayerData:
+  nailDamage: 13
+  lowerNailDamagePercentage: 0.8
+  maxHealth: 4

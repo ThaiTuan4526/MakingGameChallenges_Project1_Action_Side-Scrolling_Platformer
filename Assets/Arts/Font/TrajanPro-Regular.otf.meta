@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 7d708e61a7628e44cad13f6a67062290
+timeCreated: 1717078459
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  externalObjects: {}
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Trajan Pro
+  - Noto Serif CJK SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6b7c4f6a2b6dcee4bb8244a274beff52, type: 3}
+  - {fileID: 12800000, guid: 71707f6e72c287f4ca450453fa44e871, type: 3}
+  customCharacters:
+  fontRenderingMode: 0
+  output:
+    hasEmptyFontData: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData:
+  assetBundleName:
+  assetBundleVariant:
